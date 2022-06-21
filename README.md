@@ -62,7 +62,13 @@ tar xvzf openspace.tar.gz
 cd openspace
 ```
 * s'assurer qu'il contient bien 2 fichiers
-```bash
+```
+ls -la
+```
+on devrait voir les fichiers `.env` et `docker-compose.yml`
+
+L'arborescence devrait etre la suivante:
+```
 home
 └──openspace
    ├── .env
@@ -80,6 +86,7 @@ Une fois que toutes les couches des images composantes l'application ont étés 
 
 ***Il faudra alors recupérer l'identifiant et le mot de passe administrateur dans les logs uniquement visibles lors du premier lancement!***
 
+![example output](https://github.com/JulesFF/OpenSpace_Installation/output.png)
 
 OpenSpace est desormais disponible sur le port 80 du serveur, accessible a travers un navigateur web en tapant l'addresse ip du serveur dans la barre de recherche!
 
