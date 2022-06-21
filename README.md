@@ -86,7 +86,7 @@ Une fois que toutes les couches des images composantes l'application ont étés 
 
 ***Il faudra alors recupérer l'identifiant et le mot de passe administrateur dans les logs uniquement visibles lors du premier lancement!***
 
-![example output](https://github.com/JulesFF/OpenSpace_Installation/output.png)
+![example output](https://github.com/JulesFF/OpenSpace_Installation/images/output.png)
 
 OpenSpace est desormais disponible sur le port 80 du serveur, accessible a travers un navigateur web en tapant l'addresse ip du serveur dans la barre de recherche!
 
