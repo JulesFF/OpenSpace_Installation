@@ -1,3 +1,4 @@
+<img src=https://img.shields.io/badge/Documentation-Installation-green]>
 # Guide d'installation d'OpenSpace
 
 ## Prérequis
@@ -78,6 +79,7 @@ sudo docker-compose up
 Une fois que toutes les couches des images composantes l'application ont étés téléchargés, l'application se lancera toute seule
 
 ***Il faudra alors recupérer l'identifiant et le mot de passe administrateur dans les logs uniquement visibles lors du premier lancement!***
+
 
 OpenSpace est desormais disponible sur le port 80 du serveur, accessible a travers un navigateur web en tapant l'addresse ip du serveur dans la barre de recherche!
 
